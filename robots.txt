@@ -1,0 +1,6 @@
+# {{NOM_DE_MARQUE}} — robots.txt
+# Remplacez VOTRE-DOMAINE.fr par votre domaine réel avant la mise en ligne.
+User-agent: *
+Allow: /
+
+Sitemap: https://VOTRE-DOMAINE.fr/sitemap.xml
